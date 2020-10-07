@@ -11,7 +11,8 @@
     <div class="w100 main-heading">
         <h1>Let's Get Started with Best
             PHP Cloud Hosting</h1>
-            <h2> Here is change version 07 </h2>
+            <h2> Here is change version 08  </h2>
+            <h3> Staging Build </h3>
     </div>
 </section>
 
