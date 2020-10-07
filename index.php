@@ -8,12 +8,8 @@
 <body>
 
 <section class="container">
-    <div class="w100 main-heading">
-        <h1>Let's Get Started with Best
-            PHP Cloud Hosting</h1>
-            <h2> Here is change version 08  </h2>
-            <h3> Staging Build </h3>
-    </div>
+    <h1> Version 09  </h1>
+    <h3> Staging Build </h3>
 </section>
 
 <footer><div class="container text-center">&copy; 2011-<?=date('Y');?> © Cloudways Ltd. All right reserved</div></footer>
